@@ -1,4 +1,4 @@
-# Python Assignment - 1 (Student Attendance Tracker)
+# Python Assignment - 2 (Contact Book Management System)
 ### Department: SOET
 ### Session: 2025-26
 ### Program: MCA (AI & ML)
